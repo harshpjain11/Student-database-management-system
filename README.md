@@ -57,6 +57,7 @@ To ensure the system is working correctly, follow these testing steps:
 <img width="676" height="426" alt="Image" src="https://github.com/user-attachments/assets/a383a3bf-08e7-4013-8d0f-3a5166258a6d" />
 
 **2. Adding a Student**
-
+<img width="1250" height="780" alt="Image" src="https://github.com/user-attachments/assets/5d9d2a39-cf46-48a6-93e8-9096c1b6eb8b" />
 
 **3. Class Statistics**
+
