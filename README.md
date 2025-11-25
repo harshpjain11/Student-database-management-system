@@ -54,7 +54,7 @@ To ensure the system is working correctly, follow these testing steps:
 ## Screenshots
 
 **1. Main Menu**
-
+<img width="676" height="426" alt="Image" src="https://github.com/user-attachments/assets/a383a3bf-08e7-4013-8d0f-3a5166258a6d" />
 
 **2. Adding a Student**
 
